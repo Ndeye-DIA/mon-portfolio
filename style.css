@@ -91,12 +91,12 @@ h3 {
 }
 
 /* ACCUEIL */
-.accueil {
+.index {
     text-align: center;
     margin-top: 40px;
 }
 
-.accueil p {
+.index p {
     font-size: 18px;
     color: var(--gris-fonce);
 }
